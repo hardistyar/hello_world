@@ -2,7 +2,7 @@ package cardiff.comsc.miscfunctions
 /** ****************************************************************************
   * TreeLeast program.
   * Miscellaneous country-related functions. Created by Alex Hardisty on 1st June 2017.
-  * (c) Copyright Cardiff University 2017.
+  * (c) Copyright Cardiff University 2017, 2018.
   *
   * CC BY-SA 4.0. This work is licensed as Creative Commons Attribution-ShareAlike 4.0.
   * A license summary can be found at: https://creativecommons.org/licenses/by-sa/4.0/.
